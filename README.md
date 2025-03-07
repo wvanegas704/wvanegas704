@@ -1,18 +1,23 @@
 ## ¡Hola, bienvenidos!
 ## Acerca de mí
 
-Hola 👋, gusto en saludarlos. Mi nombre es **William Vanegas** Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia.
+Hola 👋, gusto en saludarlos. Mi nombre es **William Vanegas**. Soy estudiante de Ingeniería de Sistemas y Computación en la Universidad Nacional de Colombia.
+
 Desde siempre me ha llamado la atención poder crear soluciones digitales de forma integral que puedan combinar interfaces de usuario atractivas con arquitecturas backend robustas.
 
 ¡Gracias por visitar mi perfil! 😊
 
 ---
 
-## 💻 Experiencia y enfoque:
+### 💻 Experiencia y enfoque:
 Mi experiencia se ha desarrollado entorno al **desarrollo de software, redes y arquitectura de sistemas**, con un enfoque especial en:
+
 📱 **Desarrollo móvil:** Aplicaciones Android con **Kotlin** y **Firebase**.
+
 🌐 **Backend & APIs:** Desarrollo de servidores y servicios con **Node.js**, **Python** y **Django**.
+
 🏗 **Estructuras de datos y algoritmos:** Implementaciones eficientes en **C++, Python y Java**.
+
 🚀 **Proyectos:** **ChazaUnApp** que busca conectar dueños de chazas con estudiantes que buscan empleo por horas.
 
 ---
