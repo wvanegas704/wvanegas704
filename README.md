@@ -43,4 +43,4 @@ Mi experiencia se ha desarrollado entorno al **desarrollo de software, redes y a
 
 ### 📫 Contacto:
 📩 **Email:** [wvanegas@unal.edu.co](mailto:wvanegas@unal.edu.co)  
-🌍 **LinkedIn:** [LinkedIn/JaviierBarco](https://www.linkedin.com/in/javiierbarco)  
+🌍 **LinkedIn:** [LinkedIn/William](https://www.linkedin.com/in/william-dario-vanegas-433b75222)  
