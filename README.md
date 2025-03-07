@@ -10,15 +10,13 @@ Desde siempre me ha llamado la atención poder crear soluciones digitales de for
 ---
 
 ### 💻 Experiencia y enfoque:
-Mi experiencia se ha desarrollado entorno al **desarrollo de software, redes y arquitectura de sistemas**, con un enfoque especial en:
+Mi experiencia se ha venido construyendo entorno al **desarrollo de software, redes y arquitectura de sistemas**, con un enfoque especial en:
 
 📱 **Desarrollo móvil:** Aplicaciones Android con **Kotlin** y **Firebase**.
 
 🌐 **Backend & APIs:** Desarrollo de servidores y servicios con **Node.js**, **Python** y **Django**.
 
 🏗 **Estructuras de datos y algoritmos:** Implementaciones eficientes en **C++, Python y Java**.
-
-🚀 **Proyectos:** **ChazaUnApp** que busca conectar dueños de chazas con estudiantes que buscan empleo por horas.
 
 ---
 
@@ -38,11 +36,6 @@ Mi experiencia se ha desarrollado entorno al **desarrollo de software, redes y a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📌 Proyectos Destacados:
-✅ **ChazaUnApp** - Aplicación que conecta dueños de chazas con estudiantes que buscan trabajo por horas. Aún en desarrollo.
 
 ---
 
